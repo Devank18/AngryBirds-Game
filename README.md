@@ -1,7 +1,8 @@
 # AngryBirds-Game
 Angry Birds Game
 
-Angry Birds is a 2009 casual puzzle video game developed by Rovio Entertainment. Inspired primarily by a sketch of stylized wingless birds, the game was first released for iOS and Maemo devices in December 2009. Wikipedia
+Angry Birds is a 2009 casual puzzle video game developed by Rovio Entertainment.
+Inspired primarily by a sketch of stylized wingless birds, the game was first released for iOS and Maemo devices in December 2009. Wikipedia
 Initial release date: 11 December 2009
 Developer: Rovio Entertainment
 Designer: Jaakko Iisalo
